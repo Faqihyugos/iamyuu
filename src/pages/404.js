@@ -4,7 +4,7 @@ import { css } from '@emotion/core';
 import Container from 'components/Container';
 import Layout from 'components/Layout';
 
-export default ({ site }) => (
+export default ({ data: { site } }) => (
   <Layout site={site}>
     <Container
       css={css`

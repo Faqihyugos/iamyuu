@@ -37,8 +37,7 @@
   "main": "n/a",
   "scripts": {
     "dev": "sapper dev --routes src/pages --ext '.svelte .svx'",
-    "predev": "postcss src/styles/index.css -o static/global.css",
     "export": "sapper export --legacy --routes src/pages --ext '.svelte .svx'",
-    "preexport": "NODE_ENV=production postcss src/styles/index.css -o static/global.css"
+    "build:tw": "NODE_ENV=production postcss src/styles/index.css -o static/global.css"
   }
 }

@@ -1,0 +1,21 @@
+- title: CRUD with React (client side)
+  date: 2019-11-23
+  formats:
+    - text: demo
+      url: https://codesandbox.io/s/github/iamyuu/react-notes-app/tree/reactjs.id-meetup
+
+- title: Approach with React Apollo
+  date: 2020-01-31
+  formats:
+    - text: slide
+      url: https://approach-with-react-apollo.netlify.app
+    - text: demo
+      url: https://github.com/iamyuu/react-apollo-hooks-example
+
+- title: Introduction To Svelte
+  date: 2020-02-29
+  formats:
+    - text: slide
+      url: https://introduction-to-svelte3.netlify.app
+    - text: demo
+      url: https://github.com/iamyuu/svelte-todo
